@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/STM32PROJECK/oled/build/Debug/cmake_install.cmake",
+		"D:/STM32PROJECK/oled/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
